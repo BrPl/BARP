@@ -12,7 +12,7 @@ public class PlayerScript : MonoBehaviour
 
     // 2 - Stockage du mouvement
     private Vector2 movement;
-    
+
     void Update()
     {
         // 3 - Récupérer les informations du clavier/manette
